@@ -1,0 +1,1 @@
+require 'aerospike/rails/support'

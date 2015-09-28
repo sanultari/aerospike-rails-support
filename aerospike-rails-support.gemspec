@@ -15,6 +15,7 @@ Gem::Specification.new do |gem|
   gem.add_development_dependency 'activesupport', '~> 4.2', '>= 4.2.3'
   gem.add_development_dependency 'actionpack', '~> 4.2', '>= 4.2.3'
   gem.add_development_dependency 'rake', '~> 10.4', '>= 10.4.2'
+  gem.add_development_dependency 'rubygems-tasks', '~> 0.2', '>= 0.2.4'
   gem.add_development_dependency 'bundler', '~> 1.8', '>= 1.8.2'
   gem.add_development_dependency 'rspec', '~> 3.3'
 end

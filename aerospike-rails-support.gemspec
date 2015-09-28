@@ -1,6 +1,6 @@
 Gem::Specification.new do |gem|
   gem.name        = 'aerospike-rails-support'
-  gem.version     = '0.1.0'
+  gem.version     = '0.1.1'
   gem.date        = '2015-09-28'
   gem.summary     = 'Provide Aerospike Sub Storage Service for Rails'
   gem.description = 'Provide Aerospike Sub Storage Service for Rails as cache and session store'
